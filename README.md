@@ -35,3 +35,6 @@ This project includes a simple interactive feature where users can click a butto
 
 Future UI improvements may include better styling,
 animations, and a mobile-friendly layout.
+
+---
+Thank you for supporting sustainability at AUBH 
