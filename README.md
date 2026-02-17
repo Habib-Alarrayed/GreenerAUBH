@@ -19,3 +19,8 @@ GreenerAUBH is a sustainability tool that is designed to promote eco-friendly ha
 2. Open index.html in your browser.
 3. Click the button to view eco tips and challenges.
 
+## Additional Eco Tips
+
+- Bring reusable bags when shopping.
+- Avoid single-use plastics.
+- Use both sides of paper when printing.
