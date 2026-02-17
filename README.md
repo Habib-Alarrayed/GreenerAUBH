@@ -24,3 +24,7 @@ GreenerAUBH is a sustainability tool that is designed to promote eco-friendly ha
 - Bring reusable bags when shopping.
 - Avoid single-use plastics.
 - Use both sides of paper when printing.
+
+- Turn off AC when leaving the room.
+- Participate in campus clean-up events.
+- Use public transportation when possible.
