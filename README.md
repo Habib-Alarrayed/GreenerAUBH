@@ -28,3 +28,13 @@ GreenerAUBH is a sustainability tool that is designed to promote eco-friendly ha
 - Turn off AC when leaving the room.
 - Participate in campus clean-up events.
 - Use public transportation when possible.
+
+## User Interaction
+
+This project includes a simple interactive feature where users can click a button to generate random eco-friendly tips.
+
+Future UI improvements may include better styling,
+animations, and a mobile-friendly layout.
+
+---
+Thank you for supporting sustainability at AUBH 
