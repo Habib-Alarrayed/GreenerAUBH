@@ -1,4 +1,4 @@
-# GreenerAUBH
+# 🌿 GreenerAUBH
 
 # Project Idea
 GreenerAUBH is a sustainability tool that is designed to promote eco-friendly habits at AUBH. The tool provides students with daily enviromental tips and small challenges in order to encourage greener behavior on campus.
